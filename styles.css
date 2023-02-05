@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.unico{
+    background-color: lightsteelblue;
+    margin-top: 20px;
+    justify-content: center;
+    padding: 5px;
+    border: 2px solid black;
+    display: inline-block;
+}
